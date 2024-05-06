@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/EF_Barbra/BunkerRecordPlayer_b.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/Import/BunkerRecordPlayer_b.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/3rdParty/EF_Barbra/BunkerRecordPlayer_b.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/3rdParty/EF_Barbra/Materials/BunkerRecordPlayer_a_Mat.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/3rdParty/EF_Barbra/Textures/BunkerRecordPlayer_a_r.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/3rdParty/EF_Barbra/Textures/BunkerRecordPlayer_a_n.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/3rdParty/EF_Barbra/Textures/BunkerRecordPlayer_a_c.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/3rdParty/EF_Barbra/Common/MasterMaterial/Master_Props_Mat.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/3rdParty/EF_Barbra/Common/Materials/DetailTextures/DetailNormal_a.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/3rdParty/EF_Barbra/Common/MasterMaterial/DefaultTextures/Neutral_N.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/3rdParty/EF_Barbra/Common/MasterMaterial/DefaultTextures/Grey50.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/3rdParty/EF_Barbra/Common/MasterMaterial/Functions/Master_Props_MatFunc.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/3rdParty/EF_Barbra/Common/MasterMaterial/DefaultTextures/White.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/3rdParty/EF_Barbra/Common/MasterMaterial/DefaultTextures/Test_c.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/3rdParty/EF_Barbra/Common/MasterMaterial/DefaultTextures/Black.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/EF_Barbra/Common/MasterMaterial/DefaultTextures/Black.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/EF_Barbra/Common/MasterMaterial/DefaultTextures/Test_c.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/EF_Barbra/Common/MasterMaterial/DefaultTextures/White.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/EF_Barbra/Common/MasterMaterial/Functions/Master_Props_MatFunc.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/EF_Barbra/Common/MasterMaterial/DefaultTextures/Grey50.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/EF_Barbra/Common/MasterMaterial/DefaultTextures/Neutral_N.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/EF_Barbra/Common/Materials/DetailTextures/DetailNormal_a.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/EF_Barbra/Common/MasterMaterial/Master_Props_Mat.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/EF_Barbra/Textures/BunkerRecordPlayer_a_c.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/EF_Barbra/Textures/BunkerRecordPlayer_a_n.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/EF_Barbra/Textures/BunkerRecordPlayer_a_r.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/EF_Barbra/Materials/BunkerRecordPlayer_a_Mat.uasset",
+				"D:/Professor/Github/24sp-csg3013-unrealexercise/Assets/Content/Main.umap"
+			]
+		}
+	]
+}
